@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimationActivity</string>
+    <string name="btn_one">Go to second activity</string>
+    <string name="btn_two">Go to first activity</string>
+</resources>
